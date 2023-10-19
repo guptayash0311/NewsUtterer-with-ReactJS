@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "World reaction to possible death of Wagner chief Yevgeny Prigozhin - Al Jazeera English",
+            "description": "Russia’s announces crash of a private plane travelling between Moscow and St Petersburg killing all 10 passengers.",
+            "url": "https://www.aljazeera.com/news/2023/8/23/world-reaction-to-possible-death-of-wagner-chief-yevgeny-prigozhin",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP23235625627301-1692854633.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-24T09:45:00Z",
+            "content": "Russian mercenary chief Yevgeny Prigozhin was listed as a passenger on a private jet that crashed north of Moscow, killing all 10 passengers, the Russian authorities said.\r\nIt remains to be confirmed… [+5211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "The significance of India's landing on the moon's south pole - PBS NewsHour",
+            "description": "It was a historic day for India as it became the fourth country to land on the moon. It comes after a failed attempt in 2019 and just days behind a failed Russian lunar landing. Prime Minister Modi watched alongside the team at the Indian Space Research Organ…",
+            "url": "https://www.pbs.org/newshour/show/the-significance-of-indias-successful-landing-on-the-moons-south-pole",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/moon-1024x672.jpg",
+            "publishedAt": "2023-08-23T22:40:39Z",
+            "content": "Miles OBrien:\r\nYes, I mean, I think you could make an argument that to attain a superpower status, having a space program is part of the whole mix.\r\nAnd I think that is something that India has disco… [+884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Top Russian general linked to Prigozhin dismissed, state media reports - PBS NewsHour",
+            "description": "Russian media reports that Gen. Sergei Surovikin, a former commander of Moscow's forces in Ukraine who was linked to the leader of an armed rebellion, has been dismissed from his job as chief of the air force.",
+            "url": "https://www.pbs.org/newshour/world/top-russian-general-linked-to-prigozhin-dismissed-state-media-reports",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/10/2017-12-28T151030Z_466600316_RC1870BA3940_RTRMADP_3_RUSSIA-PUTIN-MILITARY-1024x707.jpg",
+            "publishedAt": "2023-08-23T18:41:12Z",
+            "content": "Gen. Sergei Surovikin, a former commander of Russia’s forces in Ukraine who was linked to the leader of a brief armed rebellion, has been dismissed as chief of the air force, Russian state media repo… [+3970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Richard de Grijs",
+            "title": "Russia has declared a new space race, hoping to join forces with China. Here's why that's unlikely - The Conversation",
+            "description": "China has made significant advances in space exploration on its own steam. It doesn’t need a partnership with Russia.",
+            "url": "https://theconversation.com/russia-has-declared-a-new-space-race-hoping-to-join-forces-with-china-heres-why-thats-unlikely-211993",
+            "urlToImage": "https://images.theconversation.com/files/544139/original/file-20230823-15-pirg7h.jpg?ixlib=rb-1.1.0&rect=0%2C228%2C2348%2C1172&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2023-08-23T03:12:00Z",
+            "content": "This week, the Russian space agency Roscosmos had hoped to return to the Moon after an absence of nearly 50 years. Instead, on Saturday it lost control of its Luna-25 lander. The agency explained the… [+5557 chars]"
+        }
+    ]
+}
